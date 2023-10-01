@@ -1,0 +1,19 @@
+{
+  "name": "products",
+  "version": "1.0.0",
+  "description": "Products Api Assign 1",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.1.1",
+    "npm": ">=2.1.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anmol Sharma",
+  "license": "MIT",
+  "dependencies": {
+    "restify": "=11.1.0",
+    "save": "=2.9.0"
+  }
+}
